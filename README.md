@@ -49,7 +49,7 @@ The second task I accomplished was computing the linear regression for each rela
 
 * To start off part 2 I created a heat map that displays the humidity for every city from Part 1, as in the following image:
 
-  ![heatmap](../Weather-Vacation/Images/heatmap.png)
+  ![heatmap](Weather-Vacation/Images/heatmap.png)
 
 * Narrowed down the DataFrame to find my ideal weather condition. For example:
 
